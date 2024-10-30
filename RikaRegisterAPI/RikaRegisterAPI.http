@@ -1,0 +1,6 @@
+@RikaRegisterAPI_HostAddress = http://localhost:5150
+
+GET {{RikaRegisterAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
